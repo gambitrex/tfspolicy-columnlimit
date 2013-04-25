@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColumnLimitPolicy", "ColumnLimitPolicy\ColumnLimitPolicy.csproj", "{2D95E6BE-29A6-495D-8050-6EB3A18B5F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Setup.ColumnLimitPolicy", "Setup.ColumnLimitPolicy\Setup.ColumnLimitPolicy.csproj", "{3EBE86D9-7C00-45AC-AE39-8EC688BEF548}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://acbz-bi-01:865/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ColumnLimitPolicy\\ColumnLimitPolicy.csproj
+		SccProjectName1 = ColumnLimitPolicy
+		SccLocalPath1 = ColumnLimitPolicy
+		SccProjectUniqueName2 = Setup.ColumnLimitPolicy\\Setup.ColumnLimitPolicy.csproj
+		SccProjectName2 = Setup.ColumnLimitPolicy
+		SccLocalPath2 = Setup.ColumnLimitPolicy
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D95E6BE-29A6-495D-8050-6EB3A18B5F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D95E6BE-29A6-495D-8050-6EB3A18B5F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D95E6BE-29A6-495D-8050-6EB3A18B5F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D95E6BE-29A6-495D-8050-6EB3A18B5F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBE86D9-7C00-45AC-AE39-8EC688BEF548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBE86D9-7C00-45AC-AE39-8EC688BEF548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBE86D9-7C00-45AC-AE39-8EC688BEF548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBE86D9-7C00-45AC-AE39-8EC688BEF548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

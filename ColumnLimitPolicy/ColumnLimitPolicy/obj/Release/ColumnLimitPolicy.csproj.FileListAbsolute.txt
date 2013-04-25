@@ -1,0 +1,9 @@
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\bin\Release\ColumnLimitPolicy.dll.config
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\bin\Release\ColumnLimitPolicy.dll
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\bin\Release\ColumnLimitPolicy.pdb
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\bin\Release\Microsoft.WITDataStore.dll
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\obj\Release\ColumnLimitPolicy.SettingWindow.resources
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\obj\Release\ColumnLimitPolicy.csproj.GenerateResource.Cache
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\obj\Release\ColumnLimitPolicy.dll
+C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\ColumnLimitPolicy\obj\Release\ColumnLimitPolicy.pdb

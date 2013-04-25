@@ -1,0 +1,7 @@
+C:\Users\cael_filho\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Cael Gomes\Column Limit Check-In Policy\1.0\.\ColumnLimitPolicy.dll
+C:\Users\cael_filho\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Cael Gomes\Column Limit Check-In Policy\1.0\\extension.vsixmanifest
+C:\Users\cael_filho\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Cael Gomes\Column Limit Check-In Policy\1.0\\license.txt
+C:\Users\cael_filho\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Cael Gomes\Column Limit Check-In Policy\1.0\\Policies.pkgdef
+C:\Users\cael_filho\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Cael Gomes\Column Limit Check-In Policy\1.0\.\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\cael_filho\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Cael Gomes\Column Limit Check-In Policy\1.0\.\ColumnLimitPolicy.pdb
+C:\Users\cael_filho\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Cael Gomes\Column Limit Check-In Policy\1.0\\Setup.ColumnLimitPolicy.pkgdef
