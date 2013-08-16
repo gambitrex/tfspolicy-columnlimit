@@ -10,3 +10,15 @@ C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\Setup.ColumnLimitPolicy\obj\Rel
 C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\Setup.ColumnLimitPolicy\obj\Release\Setup.ColumnLimitPolicy.pdb
 C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\Setup.ColumnLimitPolicy\obj\Release\extension.vsixmanifest
 C:\Workspace\ColumnLimitPolicy\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\Setup.ColumnLimitPolicy.pkgdef
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\license.txt
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\Setup.ColumnLimitPolicy.pkgdef
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\Setup.ColumnLimitPolicy.vsix
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\extension.vsixmanifest
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\ColumnLimitPolicy.dll
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\ColumnLimitPolicy.pdb
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\bin\Release\Microsoft.WITDataStore.dll
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\obj\Release\Setup.ColumnLimitPolicy.csprojResolveAssemblyReference.cache
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\obj\Release\Setup.ColumnLimitPolicy.dll
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\obj\Release\Setup.ColumnLimitPolicy.pdb
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Setup.ColumnLimitPolicy\obj\Release\extension.vsixmanifest

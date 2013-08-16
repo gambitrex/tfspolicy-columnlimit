@@ -88,7 +88,7 @@ namespace ColumnLimitPolicy
         public override PolicyFailure[] Evaluate()
         {
             var failures = new List<PolicyFailure>();
-            const String supportedSourceFileExtensions = "vb|cs";
+            const String supportedSourceFileExtensions = "vb$|cs$";
 
             String regex = String.IsNullOrEmpty(Properties.Settings.Default.Regex) ?
                                 supportedSourceFileExtensions : Properties.Settings.Default.Regex;
@@ -98,25 +98,29 @@ namespace ColumnLimitPolicy
             // process each file in the set of pending changes
             foreach (var pendingChange in PendingCheckin.PendingChanges.CheckedPendingChanges)
             {
-                Match match = Regex.Match(Path.GetExtension(pendingChange.LocalItem), regex,
-                    RegexOptions.IgnoreCase);
-
-                if (match.Success)
+                //don't check deleted items
+                if (pendingChange.ChangeType != ChangeType.Delete) 
                 {
-                    int lineNumber = 0;
-                    var reader = new StreamReader(new FileStream(pendingChange.LocalItem,
-                           FileMode.Open,
-                           FileAccess.Read,
-                           FileShare.ReadWrite));
+                    Match match = Regex.Match(Path.GetExtension(pendingChange.LocalItem), regex,
+                        RegexOptions.IgnoreCase);
 
-                    while (!reader.EndOfStream)
+                    if (match.Success)
                     {
-                        lineNumber++;
-                        string line = reader.ReadLine();
-                        if (line.Length > columnLimit)
+                        int lineNumber = 0;
+                        var reader = new StreamReader(new FileStream(pendingChange.LocalItem,
+                               FileMode.Open,
+                               FileAccess.Read,
+                               FileShare.ReadWrite));
+
+                        while (!reader.EndOfStream)
                         {
-                            failures.Add(new PolicyFailure("File: " + pendingChange.FileName + " - Line: " + lineNumber +
-                            "\nExceeded column limit (Column limit: " + columnLimit + ", Actual: " + line.Length + ").", this));
+                            lineNumber++;
+                            string line = reader.ReadLine();
+                            if (line.Length > columnLimit)
+                            {
+                                failures.Add(new PolicyFailure("File: " + pendingChange.FileName + " - Line: " + lineNumber +
+                                "\nExceeded column limit (Column limit: " + columnLimit + ", Actual: " + line.Length + ").", this));
+                            }
                         }
                     }
                 }
