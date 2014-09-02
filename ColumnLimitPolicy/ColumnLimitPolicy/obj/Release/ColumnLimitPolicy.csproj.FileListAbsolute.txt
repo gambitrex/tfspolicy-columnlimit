@@ -16,3 +16,4 @@ C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\Col
 C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\ColumnLimitPolicy\obj\Release\ColumnLimitPolicy.csproj.GenerateResource.Cache
 C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\ColumnLimitPolicy\obj\Release\ColumnLimitPolicy.dll
 C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\ColumnLimitPolicy\obj\Release\ColumnLimitPolicy.pdb
+C:\Users\cael_filho\Documents\GitHub\tfspolicy-columnlimit\ColumnLimitPolicy\ColumnLimitPolicy\obj\Release\ColumnLimitPolicy.csprojResolveAssemblyReference.cache

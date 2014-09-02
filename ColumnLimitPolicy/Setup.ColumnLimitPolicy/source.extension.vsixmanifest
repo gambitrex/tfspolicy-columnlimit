@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 	<Metadata>
-		<Identity Id="Setup.ColumnLimitPolicy..347a3ef0-cb87-422a-abd2-aa7617cf34e9" Version="1.0" Language="en-US" Publisher="Cael Gomes" />
+		<Identity Id="Setup.ColumnLimitPolicy..347a3ef0-cb87-422a-abd2-aa7617cf34e9" Version="1.2" Language="en-US" Publisher="Cael Gomes" />
 		<DisplayName>Column Limit Check-In Policy</DisplayName>
 		<Description xml:space="preserve">A Check-In policy that validates if any file has more than X columns.</Description>
 		<MoreInfo>http://twitter.com/cael_gomes</MoreInfo>
 		<License>license.txt</License>
 	</Metadata>
 	<Installation AllUsers="true">
-		<InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="11.0" />
-		<InstallationTarget Version="[11.0,12.0)" Id="Microsoft.VisualStudio.Ultimate" />
-		<InstallationTarget Version="[11.0,12.0)" Id="Microsoft.VisualStudio.Premium" />
+		<InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[11.0,13.0)" />
+		<InstallationTarget Version="[11.0,13.0)" Id="Microsoft.VisualStudio.Ultimate" />
+		<InstallationTarget Version="[11.0,13.0)" Id="Microsoft.VisualStudio.Premium" />
 	</Installation>
 	<Dependencies>
-		<Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="4.5" />
+		<Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[3.0,4.5)" />
 	</Dependencies>
 </PackageManifest>
